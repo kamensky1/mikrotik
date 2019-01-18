@@ -1,3 +1,5 @@
+ **scypt list**
+
 # /interface wireless registration-table print file=wifi.txt
 /tool e-mail send to=123jumpik123@gmail.com subject=test body=test file=wifi.txt
 
