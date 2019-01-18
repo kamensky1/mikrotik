@@ -1,2 +1,8 @@
 # /interface wireless registration-table print file=wifi.txt
 /tool e-mail send to=123jumpik123@gmail.com subject=test body=test file=wifi.txt
+
+**scrypt schedule **
+
+/interface wireless registration-table print file=wifi.txt
+/tool e-mail send server=74.125.133.109 port=587 user=123jumpik123@gmail.com pa
+ssword=******* start-tls=yes to=123jumpik123@gmail.com subject=test body=test file=wifi.txt
