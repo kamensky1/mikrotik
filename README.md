@@ -1,20 +1,20 @@
-# <h1> Monitoring Wifi Access Point</h1>
+#  Monitoring Wifi Access Point
 Monitorovanie pripojených užívatelov a o ních základné informácie
 
-<h3> Nastavenie Wifi Access Point</h3>
+### Nastavenie Wifi Access Point
 Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
 ![alt text]
 (email2.png"wifi")
 
-<h4>Následne nastavenie samotnej Wifi</h4>
+#### Následne nastavenie samotnej Wifi
 
-<h3> Nastavenie posielania E-mailu</h3>
+### Nastavenie posielania E-mailu
 
-<h3> Script v Scheduler</h3>
+### Script v Scheduler
 
-<h3> Spúštanie scriptu</h3>
+### Spúštanie scriptu
 ![alt text](images/scrypt.png "spuštanie")
 
-<h3> Vzorová ukážka prijatého E-mailu</h3>
+### Vzorová ukážka prijatého E-mailu
 Traja pripojení používatelia
 
