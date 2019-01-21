@@ -1,16 +1,16 @@
 #  Monitoring Wifi Access Point
-Monitorovanie pripojených užívatelov a o ních základné informácie
+Monitorovanie pripojených používatelov
 
 ### Nastavenie Wifi Access Point
-Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
+Ako prvé sa  musia nastaviť DNS a DHCP server, DHCP client, NAT a Address List
 ![alt text](sfddfsdfsd.png)
 
 #### Následne nastavenie samotnej Wifi
-
+Nastavenie spočíva : mode = AP bridge, SSID = názov Wifi, nastavenie zabezpečenia
 ### Nastavenie posielania E-mailu
 ![alt text](email2.png)
 ### Script v Scheduler
-Hlavný script, ktorý kopíruje registračnú tabuľku a ukladá ju do vytvoreného súboru 'wifi.txt'
+Hlavný script, ktorý kopíruje registračnú tabuľku zo zariadenia a ukladá ju do vytvoreného súboru 'wifi.txt'
 
 ![alt text](shedule.png)
 ### Spúštanie scriptu
