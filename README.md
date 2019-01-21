@@ -10,7 +10,7 @@ Nastavenie spočíva : mode = AP bridge, SSID = názov Wifi, nastavenie zabezpe�
 ### Nastavenie posielania E-mailu
 ![alt text](email2.png)
 ### Script v Scheduler
-Hlavný script, ktorý kopíruje registračnú tabuľku zo zariadenia a ukladá ju do vytvoreného súboru 'wifi.txt'.
+Hlavný script, ktorý kopíruje registračnú tabuľku zo zariadenia a ukladá ju do vytvoreného súboru 'wifi.txt' a následne posiela na emailovú adresu.
 
 ![alt text](shedule.png)
 ### Spúštanie scriptu
