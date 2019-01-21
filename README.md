@@ -17,5 +17,5 @@ Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
 
 ### Vzorová ukážka prijatého E-mailu
 Traja pripojení používatelia
-![alt text](poslanie emaulu.png)
+![alt text](poslanieemaulu.png)
 
