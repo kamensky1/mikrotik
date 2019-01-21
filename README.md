@@ -1,5 +1,5 @@
 #  Monitoring Wifi Access Point
-Monitorovanie pripojených používatelov
+Monitorovanie pripojených používatelov a následné zaslanie informácií o nich na E-mail.
 
 ### Nastavenie Wifi Access Point
 Ako prvé sa  musia nastaviť DNS a DHCP server, DHCP client, NAT a Address List.
