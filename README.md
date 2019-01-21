@@ -4,7 +4,7 @@ Monitorovanie pripojených užívatelov a o ních základné informácie
 <h3> Nastavenie Wifi Access Point</h3>
 Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
 ![alt text]
-(README.md/email2.png"wifi")
+(email2.png"wifi")
 
 <h4>Následne nastavenie samotnej Wifi</h4>
 
