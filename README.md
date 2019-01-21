@@ -12,6 +12,7 @@ Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
 <h3> Script v Scheduler</h3>
 
 <h3> Spúštanie scriptu</h3>
+![alt text](images/scrypt.png "logy")
 
 <h3> Vzorová ukážka prijatého E-mailu</h3>
 Traja pripojení používatelia
