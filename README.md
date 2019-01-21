@@ -6,7 +6,7 @@ Ako prvé sa  musia nastaviť DNS a DHCP server, DHCP client, NAT a Address List
 ![alt text](sfddfsdfsd.png)
 
 #### Následne nastavenie samotnej Wifi
-Nastavenie spočíva : mode = AP bridge, SSID = názov Wifi, nastavenie zabezpečenia.
+Nastavenie spočíva : mode = AP bridge, SSID = názov Wifi, nastavenie zabezpečenia v Security profiles.
 ### Nastavenie posielania E-mailu
 ![alt text](email2.png)
 ### Script v Scheduler
