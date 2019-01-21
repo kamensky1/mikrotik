@@ -3,7 +3,7 @@ Monitorovanie pripojených užívatelov a o ních základné informácie
 
 <h3> Nastavenie Wifi Access Point</h3>
 Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
-![alt text](images/sfddfsdfsd.png "logy")
+![alt text](path/sfddfsdfsd.png "wifi")
 
 <h4>Následne nastavenie samotnej Wifi</h4>
 
@@ -12,7 +12,7 @@ Ako prvé sa  musia nastaviť DNS,DHCP server, DHCP client, NAT a Address List
 <h3> Script v Scheduler</h3>
 
 <h3> Spúštanie scriptu</h3>
-![alt text](images/scrypt.png "logy")
+![alt text](images/scrypt.png "spuštanie")
 
 <h3> Vzorová ukážka prijatého E-mailu</h3>
 Traja pripojení používatelia
